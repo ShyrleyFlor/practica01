@@ -27,7 +27,7 @@ const AlumnoForm: React.FC<AlumnoFormProps> = ({
 
   return (
     <View>
-      <Text style={styles.title}>Carga de Alumnos - 8vo Semestre</Text>
+      <Text style={styles.title}>Carga de Alumnos</Text>
       <TextInput
         style={styles.input}
         placeholder="Número de Cédula"
